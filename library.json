@@ -1,0 +1,16 @@
+{
+  "name": "Mosiwi_4x4x4cube",
+  "keywords": "mosiwi, cube",
+  "description": "A library for Mosiwi basic learning kit",
+  "repository":{
+    "type": "git",
+    "url": "https://github.com/Mosiwi"
+  },
+  "authors":{
+        "name": "Mosiwi Technology Co., LTD",
+        "email": "jex-spt@outlook.com"
+   },
+  "version": "0.0.1",
+  "frameworks": "arduino",
+  "platforms": "Arduino IDE"
+}

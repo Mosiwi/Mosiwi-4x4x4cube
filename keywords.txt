@@ -1,0 +1,6 @@
+MosiwiCubeInit_SPI	    KEYWORD2
+MosiwiCubeInit_Software	KEYWORD2
+MosiwiCubeClearAll	    KEYWORD2
+MosiwiCubeUpdateLayer	KEYWORD2
+MosiwiCubePlayPattern	KEYWORD2
+
